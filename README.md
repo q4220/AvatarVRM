@@ -1,2 +1,2 @@
 # AvatarVRM
-https://raw.githubusercontent.com/discmage/AvatarVRM/main/
+https://raw.githubusercontent.com/q4220/AvatarVRM/main/
